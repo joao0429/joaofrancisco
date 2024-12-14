@@ -28,3 +28,7 @@ form {
 ol, ul {
     margin-top: 50px;
 }
+
+img {
+        width: 500px;
+}
